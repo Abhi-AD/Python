@@ -1,4 +1,5 @@
 venv/
 img/
 *.png
+*.jpg
 *.ttf
